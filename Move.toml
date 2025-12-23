@@ -10,6 +10,6 @@ IntegerMate = { git = "https://github.com/CetusProtocol/integer-mate.git", rev =
 MagmaCaps = { git = "https://github.com/luck-28/magma_core_caps_interface.git", rev = "main" }
 
 [addresses]
-magma_clmm = "0x4a35d3dfef55ed3631b7158544c6322a23bc434fe4fca1234cb680ce0505f82d"
+magma_clmm = "0x0"
 
-magma_caps = "0x2de81c0f5cc2aa176da9f093834efbf846d581afa46516bf4952b6efd3a44992"
+magma_caps = "0x0"
