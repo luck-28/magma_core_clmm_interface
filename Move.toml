@@ -4,7 +4,7 @@ edition = "2024.beta"
 published-at = "0x183af2adf115f331105825ae63e1d7d3c848d67beb4d60bc36208a90a5e92f4b"
 
 [dependencies]
-Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "c1f1ae650fb9f9248b39a569400b4420820868db" }
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "ad937889f2f99bc666b05aaeadccb0d3d7d1f863" }
 MoveSTL = { git = "https://github.com/CetusProtocol/move-stl.git", rev = "mainnet-v1.3.0" }
 IntegerMate = { git = "https://github.com/CetusProtocol/integer-mate.git", rev = "mainnet-v1.3.0" }
 MagmaCaps = { git = "https://github.com/MagmaFinanceIO/magma_core_caps_interface.git", rev = "main" }
