@@ -1,7 +1,7 @@
 [package]
 name = "MagmaClmm"
 edition = "2024.beta"
-published-at = "0x183af2adf115f331105825ae63e1d7d3c848d67beb4d60bc36208a90a5e92f4b"
+published-at = "0x4a35d3dfef55ed3631b7158544c6322a23bc434fe4fca1234cb680ce0505f82d"
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "ad937889f2f99bc666b05aaeadccb0d3d7d1f863" }
